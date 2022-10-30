@@ -1,0 +1,7 @@
+data/
+info/
+catboost_info/
+venv/
+.ipynb_checkpoints/
+*.csv
+
