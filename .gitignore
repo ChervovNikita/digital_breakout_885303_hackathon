@@ -4,4 +4,5 @@ catboost_info/
 venv/
 .ipynb_checkpoints/
 *.csv
+*.zip
 
